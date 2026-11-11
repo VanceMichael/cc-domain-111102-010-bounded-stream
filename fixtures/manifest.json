@@ -1,0 +1,17 @@
+{
+  "partitions": [
+    "line-a",
+    "line-b"
+  ],
+  "start_offsets": {
+    "line-a": 0,
+    "line-b": 0
+  },
+  "memory_limit": 65536,
+  "max_line_bytes": 4096,
+  "chunk_sizes": [
+    1,
+    7,
+    13
+  ]
+}

@@ -1,0 +1,6 @@
+[project]
+name = "bounded-stream"
+version = "0.1.0"
+description = "采集来源与资料读取工具"
+requires-python = ">=3.12"
+dependencies = []
